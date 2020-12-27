@@ -8,7 +8,7 @@ const options = {
   requestToken: 'access_token'
 }
 
-function App() {
+const App() {
   return (
     <div className="App">
       <div>
