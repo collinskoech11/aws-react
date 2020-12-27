@@ -11,7 +11,7 @@ const options = {
 function App() {
   return (
     <div className="App">
-      <h1>Video stream template</h1>
+      <h1 className="">Video stream template</h1>
       <div>
       <Video
         className='video-class'
